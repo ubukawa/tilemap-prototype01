@@ -10,7 +10,7 @@ To test the tile map, I made tilemap and the scripts to make it based on the the
 
 
 
-#Usasge
+# Usage
 ### Small Scale
 From zoom level 0 to 4, please copy the file from "caseNoTile" for notile or "CaseTile" for tile.
 
